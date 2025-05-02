@@ -34,7 +34,7 @@ A simple and visually appealing Spotify clone built using **HTML**, **CSS**, and
    
 3. **Open the `index.html` file** in your preferred browser.
 
-Alternatively, view the **live demo** here: [Spotify Clone Live Demo](https://ghanshyamjha05.github.io/spotify-clone/)
+Alternatively, view the **live demo** here: [Spotify Clone Live Demo](https://ghanshyamjha05.github.io/Spotify-clone/)
 
 ---
 
