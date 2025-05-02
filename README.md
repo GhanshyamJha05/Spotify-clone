@@ -26,7 +26,7 @@ A simple and visually appealing Spotify clone built using **HTML**, **CSS**, and
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/RIYAKUMARI001/spotify-clone.git
+   git clone https://github.com/GhanshyamJha05/spotify-clone.git
    
 2. **Navigate to the project directory**:
    ```bash
@@ -34,7 +34,7 @@ A simple and visually appealing Spotify clone built using **HTML**, **CSS**, and
    
 3. **Open the `index.html` file** in your preferred browser.
 
-Alternatively, view the **live demo** here: [Spotify Clone Live Demo](https://riyakumari001.github.io/spotify-clone/)
+Alternatively, view the **live demo** here: [Spotify Clone Live Demo](https://ghanshyamjha05.github.io/spotify-clone/)
 
 ---
 
